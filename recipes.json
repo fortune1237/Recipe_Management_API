@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Fries",
+        "description": "Delicious, tasty fries for any situation",
+        "cooking_instructions": "Just fry it",
+        "ingredients": [
+            {
+                "name": "yam, oil, salt, more yams",
+                "quantity": 3.0,
+                "unit": "5"
+            }
+        ],
+        "nutritional_info": {
+            "calories": 4.5,
+            "fat": 7.0,
+            "protein": 0.1
+        }
+    }
+]
